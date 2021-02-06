@@ -11,6 +11,3 @@
 </body>
 </html>
 
-git branch -M main
-git remote add origin https://github.com/ks0172/CS230Lab.git
-git push -u origin main
