@@ -47,7 +47,7 @@ require 'includes/header.php';
                 <form class="form-signin" action="includes/login-helper.php" method="post">
 
                     <h2>Login</h2>
-                    <p class="hint-text">Create your account!</p>
+                    <p class="hint-text">Login fool!</p>
                     
                     <div class="form-group">
                         <input type="text" class="form-control" name="uname-email" placeholder="Username/ Email" required="required">
