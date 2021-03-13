@@ -32,7 +32,7 @@ require 'includes/dbhandler.php';
         ?>
     <div class="h-50 center-me text-center">
         <div class="my-auto">
-            <form action="include/upload-helper.php" method="POST" enctype="multipart/form-data">
+            <form action="includes/upload-helper.php" method="POST" enctype="multipart/form-data">
                 <div class="form-group">
                     <img src="<?php echo $photo;?>" alt="profile pic" onclick="triggered();" id="prof-display">
                     
