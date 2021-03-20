@@ -19,8 +19,7 @@ require 'includes/header.php';
                 <p>'.$row["descript"].'</p>
                 </a>
                 </div>';
-            }       
-            
+            }                 
         ?>
     </div>    
 </main>
